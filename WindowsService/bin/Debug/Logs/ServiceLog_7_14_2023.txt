@@ -1,0 +1,70 @@
+Server listening on port 8080
+Connected to client
+Connected to client
+Client disconnected
+Client disconnected
+Shutdowm Fail
+Server listening on port 8080
+Connected to client
+Connected to client
+Connected to client
+Client disconnected
+Client disconnected
+Client disconnected
+Shutdowm Fail
+Server listening on port 8080
+Shutdowm Fail
+Server listening on port 8080
+Shutdowm Fail
+Server listening on port 8080
+Server listening on port 8080
+Here for shutdown
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Here for shutdown
+System.Net.Sockets.TcpListener
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Here for shutdown
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Here for the shutdown
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Here for the shutdown
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Here for shutdown
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Object reference not set to an instance of an object.
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Server stopped
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Connected to client
+Connected to client
+Client disconnected
+Server stopped
+A blocking operation was interrupted by a call to WSACancelBlockingCall
+A blocking operation was interrupted by a call to WSACancelBlockingCall
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Connected to client
+Client disconnected
+Server stopped
+System.Net.Sockets.TcpListener
+Server listening on port 8080
+Connected to client
+Client disconnected
+Server stopped
+A blocking operation was interrupted by a call to WSACancelBlockingCall

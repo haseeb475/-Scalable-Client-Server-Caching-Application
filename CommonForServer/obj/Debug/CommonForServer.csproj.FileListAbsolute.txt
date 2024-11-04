@@ -1,0 +1,9 @@
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\bin\Debug\CommonForServer.dll
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\bin\Debug\CommonForServer.pdb
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\obj\Debug\CommonForServer.csproj.AssemblyReference.cache
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\obj\Debug\CommonForServer.csproj.CoreCompileInputs.cache
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\obj\Debug\CommonForServer.csproj.CopyComplete
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\obj\Debug\CommonForServer.dll
+C:\Users\haseeb_ramzan\source\repos\Common\CommonForServer\obj\Debug\CommonForServer.pdb
